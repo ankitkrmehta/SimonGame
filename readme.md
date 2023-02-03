@@ -1,5 +1,5 @@
 # Ankit Kumar
-# HTML/CSS/JS & DOM - Drum Kit
+# HTML/CSS/JS & DOM - Simon Game
 
 - [About this project](#about)
 - [Features](#features)
